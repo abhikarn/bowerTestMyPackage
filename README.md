@@ -1,0 +1,2 @@
+# bowerTestMyPackage
+testing
